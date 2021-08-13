@@ -296,7 +296,7 @@ blockquote {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .navbar {
@@ -689,7 +689,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -717,7 +717,6 @@ p {
 }
 
 h2 {
-    font-size: 22px;
     line-height: 1.4em;
 }
 
